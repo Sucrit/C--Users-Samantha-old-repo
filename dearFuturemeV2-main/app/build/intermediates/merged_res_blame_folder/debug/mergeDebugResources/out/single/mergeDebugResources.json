@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/font_poppins_extrabold.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/font/poppins_extrabold.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_btn_gradient.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/btn_gradient.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-hdpi_rounded_icon.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-hdpi/rounded_icon.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_bell_pin_fill.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/bell_pin_fill.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_capsulelistbg.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/capsulelistbg.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_edittext_bg.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_settingslogo.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/settingslogo.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xxxhdpi_rounded_icon.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xxxhdpi/rounded_icon.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_activity_my_capsule_list.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/activity_my_capsule_list.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_home_fill_pink.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/home_fill_pink.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_image1.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/image1.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_mobilefeat.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/mobilefeat.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xhdpi_dearfutureme_launcher.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xhdpi/dearfutureme_launcher.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_mobilebooking.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/mobilebooking.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/xml_network_security_config.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_corner_radius.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/corner_radius.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_activity_shared_capsule.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/activity_shared_capsule.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/font_poppins_bold.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/font/poppins_bold.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/font_poppins.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/font/poppins.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/font_poppins_light.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/font/poppins_light.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/font_poppins_black.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/font/poppins_black.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_background_gradient.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/background_gradient.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xxhdpi_dearfutureme_launcher.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xxhdpi/dearfutureme_launcher.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_activity_first_intro.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/activity_first_intro.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_btn_gradient2.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/btn_gradient2.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_send_fill.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/send_fill.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_search_view_bg.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/search_view_bg.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_fragment_notification.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_log_incolor.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/log_incolor.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_fragment_share_capsule.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/fragment_share_capsule.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-hdpi_dearfutureme_launcher.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-hdpi/dearfutureme_launcher.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_edittext2_bg.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/edittext2_bg.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xxxhdpi_dearfutureme_launcher.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xxxhdpi/dearfutureme_launcher.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_home_fill.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/home_fill.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_activity_create_capsule.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/activity_create_capsule.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/font_poppins_medium.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/font/poppins_medium.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_image3.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/image3.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_send_fill_pink.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/send_fill_pink.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_fragment_shared__capsule.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/fragment_shared__capsule.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_fragment_home.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_bell_pin_fill_pink.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/bell_pin_fill_pink.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_usernameviewbgradius.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/usernameviewbgradius.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xxhdpi_rounded_icon.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xxhdpi/rounded_icon.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_activity_third_intro.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/activity_third_intro.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_test_image.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/test_image.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/font_poppins_semibold.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/font/poppins_semibold.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-mdpi_dearfutureme_launcher.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-mdpi/dearfutureme_launcher.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-mdpi_rounded_icon.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-mdpi/rounded_icon.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_image2.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/image2.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/menu_bottom_nav.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_create_btn.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/create_btn.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_frame_layout_bg.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/frame_layout_bg.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_bottom_nav_bg.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/bottom_nav_bg.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_image42.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/image42.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/drawable_circle_btn.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/drawable/circle_btn.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/mipmap-xhdpi_rounded_icon.png.flat",
+        "source": "com.example.dearfutureme.app-main-36:/mipmap-xhdpi/rounded_icon.png"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_activity_signupui.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/activity_signupui.xml"
+    },
+    {
+        "merged": "com.example.dearfutureme.app-debug-34:/layout_activity_second_intro.xml.flat",
+        "source": "com.example.dearfutureme.app-main-36:/layout/activity_second_intro.xml"
+    }
+]
