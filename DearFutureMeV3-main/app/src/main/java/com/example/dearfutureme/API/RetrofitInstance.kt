@@ -9,7 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitInstance {
 
-    private const val BASE_URL = "http://192.168.100.2:8000/api/" // Ensure the endpoint is correct
+    private const val BASE_URL = "http://192.168.1.18:8000/api/"
 
     lateinit var tokenManager: TokenManager
 
@@ -22,7 +22,6 @@ object RetrofitInstance {
     fun init(context: Context) {
         tokenManager = TokenManager(context)
     }
-
 
     // Build http client with interceptor
     private val okHttpClient by lazy {

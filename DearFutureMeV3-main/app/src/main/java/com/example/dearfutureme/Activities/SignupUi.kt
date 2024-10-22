@@ -35,30 +35,60 @@ class SignupUi : AppCompatActivity() {
             val username = binding.etuserName.text.toString()
             val email = binding.etEmailAddress.text.toString()
             val password = binding.etPassword.text.toString()
-            if (email.isNotEmpty() && password.isNotEmpty()) {
-                val request = User(username, email, password)
 
-                RetrofitInstance.instance.registerUser(request).enqueue(object : Callback<SignUpResponse> {
-                    override fun onResponse(call: Call<SignUpResponse>, response: Response<SignUpResponse>
-                    ) {
-                        if (response.isSuccessful && response.body() != null) {
-                            val userRegistration = response.body()?.status
+            if (checkOneFieldIsEmpty(username, email, password)){
+                binding.tvUserExist.text = "Fill all the requirements"
+                hideMessageAfterDelay()
+
+            } else {
+                if (validateInputs(username, email, password)) {
+                    val request = User(username, email, password)
+
+                    RetrofitInstance.instance.registerUser(request).enqueue(object : Callback<SignUpResponse> {
+                        override fun onResponse(call: Call<SignUpResponse>, response: Response<SignUpResponse>
+                        ) {
+                            if (response.isSuccessful && response.body() != null) {
+                                val userRegistration = response.body()?.status
 
                                 binding.tvUserExist.text = "$userRegistration"
+                                val intent = Intent(this@SignupUi, MainActivity::class.java).apply {
+                                    putExtra("Email", email)
+                                }
+                                startActivity(intent)
+                            } else {
+                                binding.tvUserExist.text = "Registration Failed"
                                 hideMessageAfterDelay()
-
-                        } else {
-                            binding.tvUserExist.text = "Registration Failed"
-                            hideMessageAfterDelay()
+                            }
                         }
-                    }
 
-                    override fun onFailure(call: Call<SignUpResponse>, t: Throwable) {
-                        Log.e("Registration Error", "Error: ${t.message}")
-                    }
-                })
+                        override fun onFailure(call: Call<SignUpResponse>, t: Throwable) {
+                            Log.e("Registration Error", "Error: ${t.message}")
+                        }
+                    })
+                } else {
+                    binding.tvUserExist.text = "Invalid Username, Email or Password"
+                    hideMessageAfterDelay()
+                }
             }
         }
+    }
+
+    fun checkOneFieldIsEmpty(username: String, email: String, password: String): Boolean {
+        return username.isEmpty() || email.isEmpty() || password.isEmpty()
+    }
+
+
+    private fun validateInputs(email: String, password: String, username: String): Boolean {
+        val usernamePattern = "^[a-zA-Z0-9_-]{3,15}$".toRegex()
+//        val emailPattern = "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$".toRegex()
+//        val passwordPattern = "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@#\$%^&+=!]).{8,}$".toRegex()
+
+        val isUsernameValid = username.matches(usernamePattern)
+//        val isEmailValid = email.matches(emailPattern)
+
+        return isUsernameValid
+//                && isEmailValid
+
     }
 
 
